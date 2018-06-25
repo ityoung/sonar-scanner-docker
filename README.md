@@ -1,6 +1,6 @@
 ## 项目描述
 
-一键构建SonarScanner镜像。
+一键构建SonarScanner基础镜像，用该镜像对Python项目进行静态代码分析。
 
 ## 使用步骤
 
